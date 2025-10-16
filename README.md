@@ -64,9 +64,7 @@ The goal of this project is to build a model that identifies poisonous mushrooms
 
 ### Confusion Matrix — SAFE Threshold (FN = 0)
 
-<p align="center">
-  <img src="Images/safe_confusion_matrix_final.png" alt="SAFE Confusion Matrix" width="500"/>
-</p>
+<img src="Images/safe_confusion_matrix_final.png" alt="SAFE Confusion Matrix" width="500"/>
 
 
 | Metric | Value |
